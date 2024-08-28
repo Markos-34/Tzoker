@@ -44,7 +44,14 @@ Contribution
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-* This project is licensed under the MIT License - see the LICENSE file for details.
+* Custom License
+
+Copyright (c) [2024] [Markos Mavroudi]
+
+Permission is hereby granted to view and modify this software for personal use only. Redistribution of this software, with or without modifications, is not permitted without explicit permission from the author. Commercial use of this software, in any form, is strictly prohibited without prior written consent from the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 # Ui.py file:
 
