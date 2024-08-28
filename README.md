@@ -1,4 +1,4 @@
-#Tzoker.py file:
+#Tzoker.py file:#
 
 ##Lottery Ticket Image Generator
 *This Python project automates the process of generating and printing a lottery ticket image with randomly placed "X" marks on predefined coordinates, simulating a filled-out lottery ticket.
