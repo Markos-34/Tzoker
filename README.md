@@ -44,9 +44,7 @@ Contribution
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-* Custom License
-
-Copyright (c) [2024] [Markos Mavroudi]
+* Copyright (c) [2024] [Markos Mavroudi]
 
 Permission is hereby granted to view and modify this software for personal use only. Redistribution of this software, with or without modifications, is not permitted without explicit permission from the author. Commercial use of this software, in any form, is strictly prohibited without prior written consent from the author.
 
